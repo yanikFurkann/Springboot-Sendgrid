@@ -3,7 +3,7 @@ Bu proje, Spring Boot ve SendGrid API kullanarak e-posta gönderimi yapabilen ba
 
  * Kullanılan Teknolojiler:
   
-*Java 21
+* Java 21
 
 * Spring Boot
 
