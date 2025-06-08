@@ -1,7 +1,8 @@
 #  Spring Boot & SendGrid ile E-Posta Gönderimi
 Bu proje, Spring Boot ve SendGrid API kullanarak e-posta gönderimi yapabilen basit ve modüler bir uygulamadır. Özellikle mikroservis mimarisinde e-posta bildirimleri gibi işlevleri dış servis olarak ayırmak isteyenler için temel bir örnek sunar.
 
- * Kullanılan Teknolojiler
+ * Kullanılan Teknolojiler:
+  
 *Java 21
 
 * Spring Boot
